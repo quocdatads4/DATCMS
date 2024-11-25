@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DATCMS\\DATCMS.csproj": {}
+    "E:\\DATCMS\\DATCMS\\DATCMS.csproj": {}
   },
   "projects": {
-    "E:\\DATCMS\\DATCMS.csproj": {
+    "E:\\DATCMS\\DATCMS\\DATCMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DATCMS\\DATCMS.csproj",
+        "projectUniqueName": "E:\\DATCMS\\DATCMS\\DATCMS.csproj",
         "projectName": "DATCMS",
-        "projectPath": "E:\\DATCMS\\DATCMS.csproj",
+        "projectPath": "E:\\DATCMS\\DATCMS\\DATCMS.csproj",
         "packagesPath": "C:\\Users\\QuocDat-PC\\.nuget\\packages\\",
-        "outputPath": "E:\\DATCMS\\obj\\",
+        "outputPath": "E:\\DATCMS\\DATCMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QuocDat-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

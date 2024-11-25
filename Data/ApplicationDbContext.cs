@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using DATCMS.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace DATCMS.Data
@@ -13,6 +14,8 @@ namespace DATCMS.Data
         {
 
         }
+
+        public DbSet<ApplicationUser> ApplicationUser {  get; set; }
 
     }
 }
