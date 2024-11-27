@@ -5,6 +5,1210 @@
       "PackagePath": "staticwebassets\\DATCMS.bundle.scp.css"
     },
     {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\css\\extra-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\extra-icons.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\css\\horizontal-menu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\horizontal-menu.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pace.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apple-store.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apple-store.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\08.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\09.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\10.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\11.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\12.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\13.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\14.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\15.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\16.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\17.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\18.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\19.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\20.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\amazon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\amazon.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\apple.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\apple.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\behance.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\behance.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\gift-box-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\gift-box-2.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\gift-box-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\gift-box-3.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\gift-box.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\gift-box.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\party-popper.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\party-popper.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\paypal.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\apps\\twitter-circle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\twitter-circle.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\auth\\forgot-password1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\forgot-password1.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\auth\\login1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\login1.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\auth\\register1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\register1.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\auth\\reset-password1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\reset-password1.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\08.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\09.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\10.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\11.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\avatars\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\12.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\banners\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\banners\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\banners\\screen-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\screen-1.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\banners\\widget-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banners\\widget-1.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\bg-themes\\body-background-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-themes\\body-background-1.webp"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\08.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\09.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\10.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\11.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\12.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\13.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\14.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\carousels\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\carousels\\15.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\cat\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\cat\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\cat\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\cat\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\cat\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\cat\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cat\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\08.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\09.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\10.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\11.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\12.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\13.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\14.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\clients\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\15.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\county\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\county\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\county\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\county\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\county\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\county\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\county\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\county\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\county\\08.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\13.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\14.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\15.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\16.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\20.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\20.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\21.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\21.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\22.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\22.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\23.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\23.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\24.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\24.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\25.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\25.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\26.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\26.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\profile-cover-min.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\profile-cover-min.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\gallery\\welcome-back-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\welcome-back-3.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\google-play-store.png",
+      "PackagePath": "staticwebassets\\assets\\images\\google-play-store.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\08.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\09.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\10.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\11.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\12.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\megaIcons\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megaIcons\\13.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\08.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\orders\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\orders\\09.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\projects\\angular.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\angular.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\projects\\bootstrap.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\bootstrap.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\projects\\django.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\django.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\projects\\magento.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\magento.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\projects\\python.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\python.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\projects\\react.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\react.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\projects\\vue.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\vue.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\top-products\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\01.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\top-products\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\02.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\top-products\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\03.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\top-products\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\04.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\top-products\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\05.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\top-products\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\06.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\images\\top-products\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\top-products\\07.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\img\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\10.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\dashboard1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard1.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\dashboard2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\data-widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\data-widgets.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\index2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index2.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pace.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\OwlCarousel\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\OwlCarousel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\OwlCarousel\\js\\owl.carousel2.thumbs.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\OwlCarousel\\js\\owl.carousel2.thumbs.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\apexchart\\apex-custom-chart.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexchart\\apex-custom-chart.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\apexchart\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexchart\\apexcharts.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\apexchart\\data-cards.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\apexchart\\data-cards.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\css\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\css\\custom.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\index.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\js\\index.spec.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\index.spec.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\js\\listeners.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\listeners.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\polyfill.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\bs-stepper\\js\\util.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bs-stepper\\js\\util.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\chartjs\\js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\js\\chart.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fullcalendar\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\main.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fullcalendar\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\main.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\lightbox\\dist\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\lightbox\\dist\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\lightbox\\dist\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\lightbox\\dist\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\lightbox\\dist\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\lightbox\\dist\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\lightbox\\dist\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\lightbox\\dist\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\lightbox\\dist\\js\\site.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\lightbox\\dist\\js\\site.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\metismenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\metismenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\metismenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\metismenu\\mm-vertical.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\mm-vertical.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\css\\lobibox.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\css\\lobibox.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\img\\6.jpg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\js\\lobibox.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\lobibox.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\js\\messageboxes.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\messageboxes.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\js\\messageboxes.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\messageboxes.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\js\\notifications.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notifications.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound1.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound1.ogg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound2.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound2.ogg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound3.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound3.ogg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound4.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound4.ogg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound5.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound5.ogg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\notifications\\sounds\\sound6.ogg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\notifications\\sounds\\sound6.ogg"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\select2\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\validation\\validation-script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\validation\\validation-script.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\blue-theme.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\blue-theme.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\blue-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\blue-theme.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\blue-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\blue-theme.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\bordered-theme.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\bordered-theme.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\bordered-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\bordered-theme.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\bordered-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\bordered-theme.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\dark-theme.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\dark-theme.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\dark-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\dark-theme.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\dark-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\dark-theme.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\main.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\responsive.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\responsive.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\responsive.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\responsive.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\semi-dark.css",
+      "PackagePath": "staticwebassets\\assets\\sass\\semi-dark.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\semi-dark.css.map",
+      "PackagePath": "staticwebassets\\assets\\sass\\semi-dark.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\assets\\sass\\semi-dark.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\semi-dark.scss"
+    },
+    {
       "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -243,6 +1447,78 @@
     {
       "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\blue-theme.css",
+      "PackagePath": "staticwebassets\\sass\\blue-theme.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\blue-theme.css.map",
+      "PackagePath": "staticwebassets\\sass\\blue-theme.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\blue-theme.scss",
+      "PackagePath": "staticwebassets\\sass\\blue-theme.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\bordered-theme.css",
+      "PackagePath": "staticwebassets\\sass\\bordered-theme.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\bordered-theme.css.map",
+      "PackagePath": "staticwebassets\\sass\\bordered-theme.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\bordered-theme.scss",
+      "PackagePath": "staticwebassets\\sass\\bordered-theme.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\dark-theme.css",
+      "PackagePath": "staticwebassets\\sass\\dark-theme.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\dark-theme.css.map",
+      "PackagePath": "staticwebassets\\sass\\dark-theme.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\dark-theme.scss",
+      "PackagePath": "staticwebassets\\sass\\dark-theme.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\main.css",
+      "PackagePath": "staticwebassets\\sass\\main.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\main.css.map",
+      "PackagePath": "staticwebassets\\sass\\main.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\sass\\main.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\responsive.css",
+      "PackagePath": "staticwebassets\\sass\\responsive.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\responsive.css.map",
+      "PackagePath": "staticwebassets\\sass\\responsive.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive.scss"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\semi-dark.css",
+      "PackagePath": "staticwebassets\\sass\\semi-dark.css"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\semi-dark.css.map",
+      "PackagePath": "staticwebassets\\sass\\semi-dark.css.map"
+    },
+    {
+      "Id": "E:\\DATCMS\\DATCMS\\wwwroot\\sass\\semi-dark.scss",
+      "PackagePath": "staticwebassets\\sass\\semi-dark.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DATCMS.Microsoft.AspNetCore.StaticWebAssets.props",
