@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html lang="en" data-bs-theme="blue-theme">
+<head>
+    @await Html.PartialAsync("~/Areas/User/Views/Shared/_User_Title_Meta.cshtml")
+    @RenderSection("styles", false)
+    @await Html.PartialAsync("~/Areas/User/Views/Shared/_User_Css.cshtml")
+</head>
+<body>
+    <!--start main wrapper-->
+    <main class="main-wrapper">
+        <div class="main-content">
+
+            @RenderBody()
+
+            @RenderSection("externalhtml", false)
+
+        </div>
+    </main>
+    <!--end main wrapper-->
+    <!--start overlay-->
+    <div class="overlay btn-toggle"></div>
+    <!--end overlay-->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

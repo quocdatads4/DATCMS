@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DATCMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7678c6cee21fadbb7ebf5d61a718192bba41c43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e085042c5d6be6f000316d0c4c0db018755f2b72")]
 [assembly: System.Reflection.AssemblyProductAttribute("DATCMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DATCMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace DATCMS.Models.ViewModels
+namespace DATCMS.Areas.User.Models.ViewModels
 {
     public class RegisterVM
     {

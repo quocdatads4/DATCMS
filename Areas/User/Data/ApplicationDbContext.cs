@@ -1,8 +1,8 @@
-﻿using DATCMS.Models;
+﻿using DATCMS.Areas.User.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace DATCMS.Data
+namespace DATCMS.Areas.User.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

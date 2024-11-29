@@ -3,56 +3,20 @@
   "WorkspaceRootPath": "E:\\DATCMS\\DATCMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\shared\\css.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\shared\\css.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\areas\\user\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:areas\\user\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\areas\\user\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:areas\\user\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\models\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:models\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\views\\shared\\title_meta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:views\\shared\\title_meta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|e:\\datcms\\datcms\\areas\\user\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96444168-8A1B-49B9-B1A4-5AB0C6F5F327}|DATCMS.csproj|solutionrelative:areas\\user\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,160 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Footer.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\Shared\\Footer.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Footer.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\Shared\\Footer.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T14:14:41.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Css.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\Shared\\Css.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Css.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\Shared\\Css.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Css.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T14:13:21.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:30:41.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:30:32.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:30:28.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:17:57.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Models\\ViewModels\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\RegisterVM.cs",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Models\\ViewModels\\RegisterVM.cs",
-              "RelativeToolTip": "Models\\ViewModels\\RegisterVM.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:16:08.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:58:31.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:06:14.096Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAALwAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T10:40:28.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\DATCMS\\DATCMS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T14:27:23.965Z"
+              "WhenOpened": "2024-11-29T07:03:38.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Title_Meta.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\Shared\\Title_Meta.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Title_Meta.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\Shared\\Title_Meta.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Title_Meta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Areas\\User\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\User\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\DATCMS\\DATCMS\\Areas\\User\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\User\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T14:29:55.302Z"
+              "WhenOpened": "2024-11-29T07:01:36.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\DATCMS\\DATCMS\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Areas\\User\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\User\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\DATCMS\\DATCMS\\Areas\\User\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\User\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:30:34.489Z"
+              "WhenOpened": "2024-11-29T07:01:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\DATCMS\\DATCMS\\Areas\\User\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\User\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\DATCMS\\DATCMS\\Areas\\User\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\User\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:01:28.003Z",
+              "EditorCaption": ""
             }
           ]
         }

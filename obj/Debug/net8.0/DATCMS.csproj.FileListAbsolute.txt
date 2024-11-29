@@ -461,3 +461,4 @@ E:\DATCMS\DATCMS\obj\Debug\net8.0\refint\DATCMS.dll
 E:\DATCMS\DATCMS\obj\Debug\net8.0\DATCMS.pdb
 E:\DATCMS\DATCMS\obj\Debug\net8.0\DATCMS.genruntimeconfig.cache
 E:\DATCMS\DATCMS\obj\Debug\net8.0\ref\DATCMS.dll
+E:\DATCMS\DATCMS\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_User_Layout.cshtml.rz.scp.css
